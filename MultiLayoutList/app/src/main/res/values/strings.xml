@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MultiLayoutList</string>
+    <string-array name="details">
+        <item>
+           "Rahul Dravid (About this sound pronunciation (help·info); born 11 January 1973) is a former Indian cricketer and captain, widely regarded as one of the greatest batsmen in the history of cricket.[1][2][3] Born in a Marathi family, he started playing cricket at the age of 12 and later represented the state team at the under-15, under-17 and under-19 levels. Hailed as The Wall, Dravid was named one of the best five cricketers of the year by Wisden Cricketers' Almanack in 2000 and received the Player of the Year and the Test Player of the Year awards at the inaugural ICC awards ceremony in 2004.[4][5] In December 2011, he became the first non-Australian cricketer to deliver the Bradman Oration in Canberra.[6]"
+
+        </item>
+        <item>
+   "Sachin Ramesh Tendulkar (Listeni/ˌsətʃɪn tɛnˈduːlkər/; born 24 April 1973) is a former Indian cricketer and captain, widely regarded as one of the greatest batsman of all time.[4][5][6] He took up cricket at the age of eleven, made his Test debut on 15 November 1989 against Pakistan in Karachi at the age of sixteen, and went on to represent Mumbai domestically and India internationally for close to twenty-four years. He is the only player to have scored one hundred international centuries, the first batsman to score a double century in a One Day International, holds the record for most number of runs in both ODI and Test cricket, the only player to complete more than 30,000 runs in international cricket.[7]"
+        </item>
+            <item>
+                "Virat Kohli (About this sound pronunciation (help·info); born 5 November 1988) is an Indian international cricketer. He is a right-handed batsman and occasional right-arm medium pace bowler. He is the current captain of the Indian team in Test cricket and vice-captain in limited overs formats. In the Indian Premier League (IPL), he captains the Royal Challengers Bangalore.
+
+After representing Delhi at various age-group levels and domestic cricket, Kohli captained India Under-19s to victory at the 2008 Under-19 World Cup in Malaysia. A few months later, he made his ODI debut for India against Sri Lanka. Initially having played as a reserve batsman in the Indian team, he soon established himself as a regular in the middle-order in ODIs. He was part of the Indian squad that won the 2011 World Cup. Kohli played his first Test in 2011 against the West Indies at Kingston. By 2013, he shrugged off the tag of "ODI specialist" with Test hundreds in Australia and South Africa.[2] The same year, he also reached the number one spot in the ICC rankings for ODI batsmen for the first time.[3] He has also found success in the Twenty20 format, winning the Man of the Tourn"
+            </item>
+
+
+    </string-array>
+</resources>
